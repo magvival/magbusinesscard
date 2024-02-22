@@ -34,10 +34,10 @@
 
 
 body {
-    background-color: gray;
-    
-   
-    background-repeat: no-repeat;
+    background-color: rgb(171, 45, 45);
+    background-image: url(magdesgnbkgrndmini.png);
+
+    background-repeat:repeat;
     overflow: hidden;
 }
 /* the main card container */
